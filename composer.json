@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/recaptcha": "^1.2",
+        "nubs/random-name-generator": "^2.1",
+        "stefangabos/zebra_pagination": "^2.3"
+    }
+}
